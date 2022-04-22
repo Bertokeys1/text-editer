@@ -42,5 +42,3 @@ THEN I should have proper build scripts for a webpack application
 
 ## Questions
 <a href="https://github.com/bertokeys1">github profile</a>
-
-
