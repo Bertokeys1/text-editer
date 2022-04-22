@@ -6,8 +6,8 @@
 
 ## Table of Contents 
 - [Usage](#usage)
-- [Test](#tests)
 - [Acceptance-Criteria](#acceptance-criteria)
+- [Test](#tests)
 - [Questions](#questions)
 
 ## Usage
@@ -40,6 +40,8 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+## Test
+![img](/Assets/Screenshot.png)
 
 
 ## Questions
